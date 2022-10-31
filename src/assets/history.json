@@ -1,0 +1,652 @@
+{
+  "CiC": {
+    "semestres": [
+      {
+        "materias": {
+          "fluxo": [
+            {
+              "nome": "CÁLCULO 1",
+              "professor": "DANIELE NANTES SOBRINHO; LUIS ROBERTO LUCINGER ALMEIDA",
+              "menção": "MM",
+              "créditos": 6,
+              "código": "0025",
+              "departamento": "MAT"
+            },
+            {
+              "nome": "FUNDAMENTOS TEÓRICOS DA COMPUTAÇÃO",
+              "professor": "JORGE CARLOS LUCERO",
+              "menção": "MI",
+              "créditos": 4,
+              "código": "0002",
+              "departamento": "CIC"
+            },
+            {
+              "nome": "INTROD SISTEMAS COMPUTACIONAIS",
+              "professor": "MARCUS VINICIUS LAMAR",
+              "menção": "MM",
+              "créditos": 4,
+              "código": "0003",
+              "departamento": "CIC"
+            },
+            {
+              "nome": "ALGORITMOS PROGR COMPUTADORES",
+              "professor": "FRANCISO DE ASSIS CARTAXO PINHEIRO",
+              "menção": "MM",
+              "créditos": 6,
+              "código": "0004",
+              "departamento": "CIC"
+            },
+            {
+              "nome": "INFORMATICA E SOCIEDADE",
+              "professor": "JORGE HENRIQUE CABRAL FERNANDES",
+              "menção": "MS",
+              "créditos": 2,
+              "código": "0142",
+              "departamento": "CIC"
+            }
+          ],
+          "optativas": [],
+          "modulo_livre": [],
+          "pendentes": []
+        },
+        "total_creditos_fluxo": 22,
+        "total_creditos_adquiridos": 18,
+        "IRA": 2.9090
+      },
+      {
+        "materias": {
+          "fluxo": [
+            {
+              "nome": "CÁLCULO 2",
+              "professor": "HELDER DE CARVALHO MATOS",
+              "menção": "SS",
+              "créditos": 6,
+              "código": "0026",
+              "departamento": "MAT"
+            },
+            {
+              "nome": "INTRODUCAO A ALGEBRA LINEAR",
+              "professor": "JAQUELINE GODOY MESQUITA",
+              "menção": "MM",
+              "créditos": 4,
+              "código": "0031",
+              "departamento": "MAT"
+            },
+            {
+              "nome": "ESTRUTURAS DE DADOS",
+              "professor": "MARCOS FAGUNDES CAETANO",
+              "menção": "MM",
+              "créditos": 4,
+              "código": "0090",
+              "departamento": "CIC"
+            },
+            {
+              "nome": "CIRCUITOS DIGITAIS",
+              "professor": "MARCELO GRANDI MANDELLI",
+              "menção": "SS",
+              "créditos": 6,
+              "código": "0094",
+              "departamento": "CIC"
+            }
+          ],
+          "optativas": [],
+          "modulo_livre": [],
+          "pendentes": [
+            {
+              "nome": "FUNDAMENTOS TEÓRICOS DA COMPUTAÇÃO",
+              "professor": "JORGE CARLOS LUCERO",
+              "menção": "MI",
+              "créditos": 4,
+              "código": "0002",
+              "departamento": "CIC"
+            }
+          ]
+        },
+        "total_creditos_fluxo": 20,
+        "total_creditos_adquiridos": 20,
+        "IRA": 3.7419
+      },
+      {
+        "materias": {
+          "fluxo": [
+            {
+              "nome": "ALGEBRA 1",
+              "professor": "ALINE GOMES DA SILVA PINTO",
+              "menção": "MM",
+              "créditos": 4,
+              "código": "0034",
+              "departamento": "MAT"
+            },
+            {
+              "nome": "CALCULO NUMERICO",
+              "professor": "CARLOS MABER CARRION RIVEROS",
+              "menção": "MS",
+              "créditos": 4,
+              "código": "0053",
+              "departamento": "MAT"
+            },
+            {
+              "nome": "PROBABILIDADE E ESTATÍSTICA",
+              "professor": "JHAMES MATOS SAMPAIO",
+              "menção": "MS",
+              "créditos": 4,
+              "código": "0023",
+              "departamento": "EST"
+            },
+            {
+              "nome": "ORGANIZACAO E ARQUITETURA DE COMPUTADORES",
+              "professor": "MARCUS VINICIUS LAMAR",
+              "menção": "MM",
+              "créditos": 4,
+              "código": "0098",
+              "departamento": "CIC"
+            },
+            {
+              "nome": "TECNICAS DE PROGRAMAÇÃO 1",
+              "professor": "FERNANDO ANTONIO DE ARAÚJO CHACON DE ALBUQUERQUE",
+              "menção": "SS",
+              "créditos": 4,
+              "código": "0197",
+              "departamento": "CIC"
+            }
+          ],
+          "optativas": [
+            {
+              "nome": "PROGRAMAÇÃO COMPETITIVA",
+              "professor": "VINICIUS RUELA PEREIRA BORGES",
+              "menção": "MM",
+              "créditos": 4,
+              "código": "0169",
+              "departamento": "CIC"
+            },
+            {
+              "nome": "FISICA 1",
+              "professor": "DEMÉTRIO ANTÔNIO DA SILVA FILHO",
+              "menção": "MM",
+              "créditos": 4,
+              "código": "0171",
+              "departamento": "IFD"
+            }
+          ],
+          "modulo_livre": [],
+          "pendentes": [
+            {
+              "nome": "FUNDAMENTOS TEÓRICOS DA COMPUTAÇÃO",
+              "professor": "JORGE CARLOS LUCERO",
+              "menção": "MI",
+              "créditos": 4,
+              "código": "0002",
+              "departamento": "CIC"
+            }
+          ]
+        },
+        "total_creditos_fluxo": 20,
+        "total_creditos_adquiridos": 28,
+        "IRA": 3.6438
+      },
+      {
+        "materias": {
+          "fluxo": [
+            {
+              "nome": "ORGANIZAÇÃO DE ARQUIVOS",
+              "professor": "PEDRO DE AZEVEDO BERGER",
+              "menção": "MS",
+              "créditos": 4,
+              "código": "0092",
+              "departamento": "CIC"
+            },
+            {
+              "nome": "REDES DE COMPUTADORES",
+              "professor": "PRISCILA AMERICA SOLIS MENDEZ BARRETO",
+              "menção": "MM",
+              "créditos": 4,
+              "código": "0124",
+              "departamento": "CIC"
+            },
+            {
+              "nome": "LÓGICA COMPUTACIONAL 1",
+              "professor": "FLAVIO LEONARDO CAVALCANTI DE MOURA",
+              "menção": "MS",
+              "créditos": 4,
+              "código": "0182",
+              "departamento": "CIC"
+            },
+            {
+              "nome": "TECNICAS DE PROGRAMAÇÃO 2",
+              "professor": "WILLIAN ARVEY MOLANO GABALAN",
+              "menção": "MS",
+              "créditos": 4,
+              "código": "0198",
+              "departamento": "CIC"
+            },
+            {
+              "nome": "TEORIA E APLICAÇÃO DE GRAFOS",
+              "professor": "DIBIO LEANDRO BORGES",
+              "menção": "MS",
+              "créditos": 4,
+              "código": "0199",
+              "departamento": "CIC"
+            }
+          ],
+          "optativas": [
+            {
+              "nome": "FISICA 2",
+              "professor": "ALESSANDRA FERREIRA ALBERNAZ",
+              "menção": "MM",
+              "créditos": 4,
+              "código": "0175",
+              "departamento": "IFD"
+            }
+          ],
+          "modulo_livre": [
+            {
+              "nome": "INTRODUÇÃO À ECONOMIA",
+              "professor": "VANDER MENDES LUCAS",
+              "menção": "MM",
+              "créditos": 4,
+              "código": "0019",
+              "departamento": "ECO"
+            },
+            {
+              "nome": "MONITORIA TECNICAS DE PROGRAMAÇÃO 1",
+              "professor": "FERNANDO ANTONIO DE ARAÚJO CHACON DE ALBUQUERQUE",
+              "menção": "SS",
+              "créditos": 2,
+              "código": "",
+              "departamento": "CIC"
+            }
+          ],
+          "pendentes": [
+            {
+              "nome": "FUNDAMENTOS TEÓRICOS DA COMPUTAÇÃO",
+              "professor": "JORGE CARLOS LUCERO",
+              "menção": "MI",
+              "créditos": 4,
+              "código": "0002",
+              "departamento": "CIC"
+            }
+          ]
+        },
+        "total_creditos_fluxo": 20,
+        "total_creditos_adquiridos": 30,
+        "IRA": 3.6124
+      },
+      {
+        "materias": {
+          "fluxo": [
+            {
+              "nome": "LINGUAGENS DE PROGRAMACAO",
+              "professor": "MARCELO LADEIRA",
+              "menção": "SS",
+              "créditos": 4,
+              "código": "0093",
+              "departamento": "CIC"
+            },
+            {
+              "nome": "PROGRAMAÇÃO CONCORRENTE",
+              "professor": "EDUARDO ADILIO PELINSON ALCHIERI",
+              "menção": "MM",
+              "créditos": 4,
+              "código": "0202",
+              "departamento": "CIC"
+            },
+            {
+              "nome": "ENGENHARIA DE SOFTWARE",
+              "professor": "FERNANDO ANTONIO DE ARAÚJO CHACON DE ALBUQUERQUE",
+              "menção": "MS",
+              "créditos": 4,
+              "código": "0105",
+              "departamento": "CIC"
+            },
+            {
+              "nome": "BANCOS DE DADOS",
+              "professor": "MARISTELA TERTO DE HOLANDA",
+              "menção": "MS",
+              "créditos": 4,
+              "código": "0097",
+              "departamento": "CIC"
+            },
+            {
+              "nome": "INTRO INTELIGENCIA ARTIFICIAL",
+              "professor": "LI WEIGANG; LUIS PAULO FAINA GARCIA",
+              "menção": "MS",
+              "créditos": 4,
+              "código": "0135",
+              "departamento": "CIC"
+            }
+          ],
+          "optativas": [
+            {
+              "nome": "CIRCUITOS ELETRICOS 1",
+              "professor": "HUMBERTO ABDALLA JUNIOR",
+              "menção": "MM",
+              "créditos": 4,
+              "código": "0042",
+              "departamento": "ENE"
+            },
+            {
+              "nome": "LABORATÓRIO DE CIRCUITOS ELÉTRICOS 1",
+              "professor": "VINICIUS DO COUTO PINHEIRO",
+              "menção": "MS",
+              "créditos": 2,
+              "código": "0044",
+              "departamento": "ENE"
+            },
+            {
+              "nome": "TOPICOS AVANCADOS EM COMPUTADORES",
+              "professor": "JORGE HENRIQUE CABRAL FERNANDES; RICARDO BARROS SAMPAIO",
+              "menção": "SS",
+              "créditos": 4,
+              "código": "0087",
+              "departamento": "CIC"
+            }
+          ],
+          "modulo_livre": [],
+          "pendentes": [
+            {
+              "nome": "FUNDAMENTOS TEÓRICOS DA COMPUTAÇÃO",
+              "professor": "JORGE CARLOS LUCERO",
+              "menção": "MI",
+              "créditos": 4,
+              "código": "0002",
+              "departamento": "CIC"
+            }
+          ]
+        },
+        "total_creditos_fluxo": 20,
+        "total_creditos_adquiridos": 30,
+        "IRA": 3.7549
+      },
+      {
+        "materias": {
+          "fluxo": [
+            {
+              "nome": "AUTÔMATOS E COMPUTABILIDADE",
+              "professor": "JORGE CARLOS LUCERO",
+              "menção": "TR",
+              "créditos": 6,
+              "código": "0161",
+              "departamento": "CIC"
+            },
+            {
+              "nome": "COMPUTAÇÃO EXPERIMENTAL",
+              "professor": "MARCELO ANTONIO MAROTTA",
+              "menção": "MS",
+              "créditos": 4,
+              "código": "0203",
+              "departamento": "CIC"
+            },
+            {
+              "nome": "SISTEMAS DE INFORMACAO",
+              "professor": "JORGE HENRIQUE CABRAL FERNANDES",
+              "menção": "SS",
+              "créditos": 4,
+              "código": "0101",
+              "departamento": "CIC"
+            },
+            {
+              "nome": "SOFTWARE BASICO",
+              "professor": "MARCELO LADEIRA",
+              "menção": "MS",
+              "créditos": 4,
+              "código": "0104",
+              "departamento": "CIC"
+            }
+          ],
+          "optativas": [
+            {
+              "nome": "SINAIS E SISTEMAS",
+              "professor": "FLAVIA MARIA GUERRA DE SOUSA ARANHA OLIVEIRA",
+              "menção": "MM",
+              "créditos": 4,
+              "código": "0242",
+              "departamento": "CIC"
+            },
+            {
+              "nome": "ESTATISTICA EXPLORATORIA",
+              "professor": "JULIANA BETINI FACHINI GOMES",
+              "menção": "MS",
+              "créditos": 4,
+              "código": "0033",
+              "departamento": "EST"
+            },
+            {
+              "nome": "TOPICOS AVANCADOS EM COMPUTADORES",
+              "professor": "JORGE HENRIQUE CABRAL FERNANDES; RICARDO BARROS SAMPAIO",
+              "menção": "MS",
+              "créditos": 4,
+              "código": "0087",
+              "departamento": "CIC"
+            }
+          ],
+          "modulo_livre": [],
+          "pendentes": [
+            {
+              "nome": "FUNDAMENTOS TEÓRICOS DA COMPUTAÇÃO",
+              "professor": "JORGE CARLOS LUCERO",
+              "menção": "MI",
+              "créditos": 4,
+              "código": "0002",
+              "departamento": "CIC"
+            }
+          ]
+        },
+        "total_creditos_fluxo": 12,
+        "total_creditos_adquiridos": 24,
+        "IRA": 3.8188
+      },
+      {
+        "materias": {
+          "fluxo": [
+            {
+              "nome": "SISTEMAS OPERACIONAIS",
+              "professor": "ALBA CRISTINA MAGALHAES ALVES DE MELO",
+              "menção": "SS",
+              "créditos": 6,
+              "código": "0108",
+              "departamento": "CIC"
+            },
+            {
+              "nome": "FUNDAMENTOS TEÓRICOS DA COMPUTAÇÃO",
+              "professor": "JORGE CARLOS LUCERO",
+              "menção": "MS",
+              "créditos": 4,
+              "código": "0002",
+              "departamento": "CIC"
+            },
+            {
+              "nome": "SEGURANÇA COMPUTACIONAL",
+              "professor": "JOÃO JOSÉ COSTA GONDIM",
+              "menção": "MS",
+              "créditos": 4,
+              "código": "0201",
+              "departamento": "CIC"
+            },
+            {
+              "nome": "PROJETO E ANÁLISE DE ALGORITMOS",
+              "professor": "JAN MENDONCA CORREA",
+              "menção": "MS",
+              "créditos": 4,
+              "código": "0189",
+              "departamento": "CIC"
+            }
+          ],
+          "optativas": [
+            {
+              "nome": "TELEINFORMÁTICA E REDES 2",
+              "professor": "ANDRÉ COSTA DRUMMOND",
+              "menção": "SS",
+              "créditos": 4,
+              "código": "0236",
+              "departamento": "CIC"
+            }
+          ],
+          "modulo_livre": [
+            {
+              "nome": "VIGILÂNCIA EPIDEMIOLÓGICA COMUNITÁRIA E PARTICIPATIVA",
+              "professor": "EAD",
+              "menção": "SS",
+              "créditos": 4,
+              "código": "0204",
+              "departamento": "DEG"
+            }
+          ],
+          "pendentes": [
+            {
+              "nome": "AUTÔMATOS E COMPUTABILIDADE",
+              "professor": "JORGE CARLOS LUCERO",
+              "menção": "TR",
+              "créditos": 6,
+              "código": "0161",
+              "departamento": "CIC"
+            }
+          ]
+        },
+        "total_creditos_fluxo": 18,
+        "total_creditos_adquiridos": 26,
+        "IRA": 3.9774
+      },
+      {
+        "materias": {
+          "fluxo": [
+            {
+              "nome": "AUTÔMATOS E COMPUTABILIDADE",
+              "professor": "JORGE CARLOS LUCERO",
+              "menção": "SS",
+              "créditos": 6,
+              "código": "0161",
+              "departamento": "CIC"
+            },
+            {
+              "nome": "METODOLOGIA CIENTIFICA",
+              "professor": "RICARDO LOPES DE QUEIROZ",
+              "menção": "SS",
+              "créditos": 2,
+              "código": "0200",
+              "departamento": "CIC"
+            }
+          ],
+          "optativas": [
+            {
+              "nome": "TÓPICOS ESPECIAIS EM PROGRAMAÇÃO",
+              "professor": "EDSON ALVES DA COSTA JUNIOR",
+              "menção": "MM",
+              "créditos": 4,
+              "código": "0053",
+              "departamento": "FGA"
+            }
+          ],
+          "modulo_livre": [
+            {
+              "nome": "VIGILÂNCIA EPIDEMIOLÓGICA COMUNITÁRIA E PARTICIPATIVA",
+              "professor": "EAD",
+              "menção": "SS",
+              "créditos": 4,
+              "código": "0204",
+              "departamento": "DEG"
+            }
+          ],
+          "pendentes": []
+        },
+        "total_creditos_fluxo": 8,
+        "total_creditos_adquiridos": 16,
+        "IRA": 4.0398
+      },
+      {
+        "materias": {
+          "fluxo": [
+            {
+              "nome": "TRADUTORES",
+              "professor": "CLAUDIA NALON",
+              "menção": "SS",
+              "créditos": 6,
+              "código": "0106",
+              "departamento": "CIC"
+            }
+          ],
+          "optativas": [
+            {
+              "nome": "TOPICOS AVANCADOS EM COMPUTADORES",
+              "professor": "ALETEIA PATRICIA FAVACHO DE ARAUJO VON PAUMGARTTEN",
+              "menção": "MS",
+              "créditos": 4,
+              "código": "0087",
+              "departamento": "CIC"
+            },
+            {
+              "nome": "LÓGICA",
+              "professor": "ALEXANDRE FERNANDES BATISTA COSTA LEITE",
+              "menção": "MS",
+              "créditos": 6,
+              "código": "0179",
+              "departamento": "FIL"
+            }
+          ],
+          "modulo_livre": [
+            {
+              "nome": "VIGILÂNCIA EPIDEMIOLÓGICA COMUNITÁRIA E PARTICIPATIVA",
+              "professor": "EAD",
+              "menção": "SS",
+              "créditos": 4,
+              "código": "0204",
+              "departamento": "DEG"
+            }
+          ],
+          "pendentes": []
+        },
+        "total_creditos_fluxo": 6,
+        "total_creditos_adquiridos": 20,
+        "IRA": 4.0995
+      },
+      {
+        "materias": {
+          "fluxo": [
+            {
+              "nome": "TRABALHO DE GRADUAÇÃO 1",
+              "professor": "JORGE HENRIQUE CABRAL FERNANDES",
+              "menção": "SS",
+              "créditos": 2,
+              "código": "0249",
+              "departamento": "CIC"
+            }
+          ],
+          "optativas": [],
+          "modulo_livre": [
+            {
+              "nome": "VIGILÂNCIA EPIDEMIOLÓGICA COMUNITÁRIA E PARTICIPATIVA",
+              "professor": "EAD",
+              "menção": "SS",
+              "créditos": 4,
+              "código": "0204",
+              "departamento": "DEG"
+            }
+          ],
+          "pendentes": []
+        },
+        "total_creditos_fluxo": 2,
+        "total_creditos_adquiridos": 6,
+        "IRA": 4.1333
+      },
+      {
+        "materias": {
+          "fluxo": [
+            {
+              "nome": "TRABALHO DE GRADUAÇÃO 2",
+              "professor": "JORGE HENRIQUE CABRAL FERNANDES",
+              "menção": "SS",
+              "créditos": 2,
+              "código": "0250",
+              "departamento": "CIC"
+            }
+          ],
+          "optativas": [],
+          "modulo_livre": [],
+          "pendentes": []
+        },
+        "total_creditos_fluxo": 4,
+        "total_creditos_adquiridos": 4,
+        "IRA": 4.1544
+      }
+    ]
+  }
+}
